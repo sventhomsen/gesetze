@@ -195,20 +195,11 @@ Regelungen kann durch Landesrecht nicht abgewichen werden. § 4 Absatz
 2 gilt entsprechend.
 
 
-## § 7 Für die Nutzerkonten zuständige Stelle
+## § 7 Nutzerfreundlichkeit und Barrierefreiheit
 
-(1) Bund und Länder bestimmen jeweils eine öffentliche Stelle, die
-natürlichen Personen die Einrichtung eines Nutzerkontos anbietet.
+(1) Bund und Länder stellen durch geeignete Maßnahmen die Nutzerfreundlichkeit sowie eine einfache und intuitive Bedienbarkeit des übergreifenden Zugangs zu elektronischen Verwaltungsleistungen, einschließlich der für diesen Zugang relevanten IT-Komponenten, sicher.
 
-(2) Bund und Länder bestimmen jeweils öffentliche Stellen, die die
-Registrierung von Nutzerkonten vornehmen dürfen
-(Registrierungsstellen).
-
-(3) Vorbehaltlich des § 3 Absatz 2 Satz 2 sind das Nutzerkonto, dessen
-Verwendung zur Identifizierung für elektronische Verwaltungsleistungen
-und die gegebenenfalls verbundene Registrierung von allen öffentlichen
-Stellen anzuerkennen, die Verwaltungsleistungen über die
-Verwaltungsportale im Sinne dieses Gesetzes anbieten.
+(2) Der übergreifende Zugang zu elektronischen Verwaltungsleistungen, einschließlich der für diesen Zugang relevanten IT-Komponenten, ist nach Maßgabe der Barrierefreie-Informationstechnik-Verordnung so zu gestalten, dass sie barrierefrei nutzbar sind.
 
 
 ## § 8 Rechtsgrundlagen der Datenverarbeitung
