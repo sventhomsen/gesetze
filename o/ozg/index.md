@@ -55,10 +55,10 @@ Verwaltungsportale von Bund und Ländern, über den der Zugang zu
 Verwaltungsleistungen auf unterschiedlichen Portalen angeboten wird.
 
 (2) Ein „Verwaltungsportal“ bezeichnet ein bereits gebündeltes
-elektronisches Verwaltungsangebot eines Landes oder des Bundes mit
+elektronisches Verwaltungsangebot mit
 entsprechenden Angeboten einzelner Behörden.
 
-(3) „Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die
+(3) „Elektronische Verwaltungsleistungen“ im Sinne dieses Gesetzes sind die
 elektronische Abwicklung von Verwaltungsverfahren und die dazu
 erforderliche elektronische Information des Nutzers und Kommunikation
 mit dem Nutzer über allgemein zugängliche Netze.
@@ -79,18 +79,12 @@ mit dem Nutzer über allgemein zugängliche Netze.
 
 
 
-(5) Ein „Nutzerkonto“ ist eine zentrale Identifizierungs- und
-Authentifizierungskomponente, die eine staatliche Stelle anderen
-Behörden zur einmaligen oder dauerhaften Identifizierung und
+(5) Ein „Nutzerkonto“ ist eine zentrale IT-Komponente zur einmaligen oder dauerhaften Identifizierung und
 Authentifizierung der Nutzer zu Zwecken der Inanspruchnahme von
-Verwaltungsleistungen der öffentlichen Verwaltung bereitstellt. Ein
-Nutzerkonto kann als Bürger- oder Organisationskonto angeboten werden.
-Ein „Bürgerkonto“ ist ein Nutzerkonto, das natürlichen Personen zur
-Verfügung steht. Ein „Organisationskonto“ ist ein Nutzerkonto, das
-juristischen Personen, Vereinigungen, denen ein Recht zustehen kann,
-natürlichen Personen, die gewerblich oder beruflich tätig sind, oder
-Behörden zur Verfügung steht. Die Verwendung von Nutzerkonten ist für
-die Nutzer freiwillig.
+Verwaltungsleistungen der öffentlichen Verwaltung sowie zur vorgangsbezogenen Kommunikation über ein Postfach im Sinne des Absatzes 7. bereitstellt. Ein
+Nutzerkonto wird als Bürger- oder Organisationskonto bereitgestellt.
+Das „Bürgerkonto“ ist ein Nutzerkonto, das natürlichen Personen zur
+Verfügung steht. Das „Organisationskonto“ ist ein Nutzerkonto, as Unternehmen im Sinne des § 3 Absatz 1 des Unternehmensbasisdatenregistergesetzes, sonstigen juristischen Personen und Vereinigungen, soweit ihnen ein Recht zustehen kann, sowie Behörden zur Verfügung steht.
 
 (6) „IT-Komponenten“ im Sinne dieses Gesetzes sind IT-Anwendungen,
 Basisdienste und die elektronische Realisierung von Standards,
@@ -99,10 +93,13 @@ Portalverbund, für den Betrieb des Portalverbundes und für die
 Abwicklung der Verwaltungsleistungen im Portalverbund erforderlich
 sind.
 
-(7) Ein „Postfach“ ist eine IT-Komponente, über die eine Behörde
-Nutzern mit deren Zustimmung elektronische Dokumente und Informationen
-bereitstellen kann. Das Postfach ist Bestandteil eines Nutzerkontos.
-Die Nutzung eines Postfachs ist für die Nutzer freiwillig.
+(7) Ein „Postfach“ ist eine IT-Komponente, über die Nutzer medienbruchfrei, barrierefrei und sicher mit den an den Portalverbund angeschlossenen öffentlichen Stellen vorgangsbezogen kommunizieren können sowie elektronische Dokumente und Informationen senden und empfangen können. Das Postfach ist Bestandteil eines Nutzerkontos.
+
+(8) Ein „Onlinedienst" ist eine IT-Komponente, die ein eigenständiges elektronisches Angebot an die Nutzer darstellt, welches die Abwicklung einer oder mehrerer elektronischer Verwaltungsleistungen von Bund oder Ländern ermöglicht. Der Onlinedienst dient dem elektronischen Ausfüllen der Online-Formulare für Ver- waltungsleistungen von Bund oder Ländern, der Offenlegung dieser Daten an die zuständige Fachbehörde sowie der Übermittlung elektronischer Dokumente und Informationen zu Verwaltungsvorgängen an die Nutzer, gegebenenfalls unter Einbindung von Nutzerkonten einschließlich deren Funktion zur Übermittlung von Daten aus einem Nutzerkonto an eine für die Verwaltungsleistung zuständige Behörde. Der Onlinedienst kann auch verfahrensunabhängig und länderübergreifend, insbesondere in der Verantwortung einer Landesbehörde zur Nutzung durch weitere Länder, bereitgestellt werden.
+
+(9) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.
+
+
 
 
 ## § 3 Ziel des Portalverbundes; Nutzerkonten
