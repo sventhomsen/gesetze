@@ -388,6 +388,8 @@ Möglichkeit des Abrufs benachrichtigt. Erfolgt der Abruf vor einer
 erneuten Bekanntgabe des Verwaltungsaktes, bleibt der Tag des ersten
 Abrufs für den Zugang maßgeblich.
 
+(1a) Die Einwilligung nach Absatz 1 eines Nutzers des einheitlichen Organisations- kontos gilt als erteilt, sofern der Nutzer nicht im Rahmen der Inanspruchnahme einer elektronischen Verwaltungsleistung eine elektronische Bekanntgabe über ein Postfach im Sinne des § 2 Absatz 7 ausschließt
+
 (2) Die Bundesregierung berichtet dem Deutschen Bundestag und dem
 Bundesrat bis spätestens 10. Dezember 2025 über die Erfahrungen in der
 Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
