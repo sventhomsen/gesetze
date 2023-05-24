@@ -202,12 +202,10 @@ Regelungen kann durch Landesrecht nicht abgewichen werden. § 4 Absatz
 (2) Der übergreifende Zugang zu elektronischen Verwaltungsleistungen, einschließlich der für diesen Zugang relevanten IT-Komponenten, ist nach Maßgabe der Barrierefreie-Informationstechnik-Verordnung so zu gestalten, dass sie barrierefrei nutzbar sind.
 
 
-## § 8 Rechtsgrundlagen der Datenverarbeitung
+## § 8 Rechtsgrundlagen der Datenverarbeitung in Nutzerkonten und zu Identifizierungszwecken“.
 
-(1) Der Nachweis der Identität des Nutzers eines Nutzerkontos kann auf
-unterschiedlichen Vertrauensniveaus erfolgen und muss die Verwendung
-des für das jeweilige Verwaltungsverfahren erforderlichen
-Vertrauensniveaus ermöglichen. Zur Feststellung der Identität des
+
+(1) Zur Feststellung der Identität des
 Nutzers eines Nutzerkontos dürfen bei Registrierung und Nutzung
 folgende Daten verarbeitet werden:
 
@@ -239,15 +237,16 @@ folgende Daten verarbeitet werden:
 
     i)  Staatsangehörigkeit,
 
+    j) im amtlichen Gemeindeverzeichnis verwendeter eindeutiger Gemeindeschlüssel,
 
-    j)  bei Nutzung der elektronischen Identitätsfunktion im Sinne des § 18
+    k)  bei Nutzung der elektronischen Identitätsfunktion im Sinne des § 18
         des Personalausweisgesetzes, des § 12 des eID-Karte-Gesetzes oder des
         § 78 Absatz 5 des Aufenthaltsgesetzes die Abkürzung „D“ für
         Bundesrepublik Deutschland, die Dokumentenart sowie das dienste- und
         kartenspezifische Kennzeichen,
 
 
-    k)  die eindeutige Kennung sowie die spezifischen Daten, die von
+    l)  die eindeutige Kennung sowie die spezifischen Daten, die von
         notifizierten elektronischen Identifizierungsmitteln nach der
         Verordnung (EU) Nr. 910/2014 vom 23. Juli 2014 über elektronische
         Identifizierung und Vertrauensdienste für elektronische Transaktionen
@@ -255,18 +254,18 @@ folgende Daten verarbeitet werden:
         vom 28.8.2014, S. 73) übermittelt werden,
 
 
-    l)  die eindeutige Kennung, die von sonstigen anerkannten elektronischen
+    m)  die eindeutige Kennung, die von sonstigen anerkannten elektronischen
         Identifizierungsmitteln übermittelt wird, und
 
 
-    m)  die Postfachreferenz des Nutzerkontos;
+    n)  die Postfachreferenz des Nutzerkontos;
 
 
 
     bei späterer Nutzung des Nutzerkontos mit der eID-Funktion sind
     grundsätzlich das dienste- und kartenspezifische Kennzeichen und die
     Anschrift zu übermitteln; bei elektronischen Identifizierungsmitteln
-    nach den Buchstaben k und l nur die jeweilige eindeutige Kennung;
+    nach den Buchstaben l bis m nur die jeweilige eindeutige Kennung;
 
 
 2.  bei einer juristischen Person oder Vereinigungen, soweit ihnen ein
@@ -322,7 +321,7 @@ folgende Daten verarbeitet werden:
 
 
 
-Daten im Sinne des Satzes 2 Nummern 1 und 2 dürfen mit Einwilligung
+Daten im Sinne des Satzes 1 Nummern 1 und 2 dürfen auf Veranlassung
 des Nutzers auch zwischen den Nutzerkonten von Bund und Ländern
 ausgetauscht werden.
 
@@ -336,57 +335,29 @@ Abgabenordnung betreibt,
     Abgabenordnung aufgeführten Daten des Bundeszentralamts für Steuern
     sowie entsprechende, für das Besteuerungsverfahren gespeicherte Daten
     der Finanzämter bei diesen Finanzbehörden im automatisierten Verfahren
-    mit Einwilligung des Nutzers abrufen und
+    auf Veranlassung des Nutzers abrufen und
 
 
-2.  die abgerufenen Daten mit Einwilligung des Nutzers an dessen
+2.  die abgerufenen Daten auf Veranlassung des Nutzers an dessen
     Nutzerkonto übermitteln.
 
 
 
 
-(3) Zur Kommunikation mit dem Nutzer können zusätzlich folgende Daten
+(3) Zur Kommunikation mit dem Nutzer dürfen zusätzlich folgende Daten
 verarbeitet werden: Anrede, weitere Anschriften, De-Mail-Adresse oder
 vergleichbare Adresse eines Zustelldienstes eines anderen EU-/EWR-
 Staates nach der Verordnung (EU) Nr. 910/2014, E-Mail-Adresse,
 Telefon- oder Mobilfunknummer, Telefaxnummer.
 
-(4) Mit Einwilligung des Nutzers dürfen im Nutzerkonto elektronische
-Dokumente zu Verwaltungsvorgängen sowie Status- und
-Verfahrensinformationen innerhalb des Nutzerkontos verarbeitet werden.
+(4) Auf Veranlassung des Nutzers dürfen zum Zwecke der Kontonutzung elektronische Dokumente zu Verwaltungsvorgängen, Status- und Verfahrensinformationen sowie Kommunikationsinhaltsdaten an das Nutzerkonto übermittelt und innerhalb des Nutzerkontos verarbeitet werden.
 
-(5) Die elektronische Identifizierung kann jeweils mittels einer
-einmaligen Abfrage der Identitätsdaten erfolgen. Mit Einwilligung des
-Nutzers sind eine dauerhafte Speicherung der Identitätsdaten und deren
-Übermittlung an und Verwendung durch die für die Verwaltungsleistung
-zuständige Behörde zulässig. Im Falle der dauerhaften Speicherung muss
-der Nutzer jederzeit die Möglichkeit haben, das Nutzerkonto und alle
-gespeicherten Daten selbständig zu löschen.
+(5) Auf Veranlassung des Nutzers ist eine dauerhafte Speicherung der Identitätsdaten und der Daten nach den Absätzen 3 und 4 zulässig. Im Falle der dauerhaften Speicherung muss der Nutzer jederzeit die Möglichkeit haben, das Nutzerkonto und alle in ihm gespeicherten Daten selbständig zu löschen. Die für den jeweiligen Zweck erforderlichen Identitätsdaten und Daten nach den Absätzen 3 und 4 dürfen auf Veranlassung des Nutzers an die für die Verwaltungsleistung zuständige Behörde, ein Verwaltungsportal nach §2 Absatz 2 oder einen Onlinedienst nach § 2 Absatz 8 übermittelt werden und durch diese verarbeitet werden.
 
-(6) Die für die Abwicklung einer Verwaltungsleistung zuständige
-Behörde kann im Einzelfall mit Einwilligung des Nutzers die für die
-Identifizierung des Nutzers erforderlichen Daten bei der für das
-Nutzerkonto zuständigen Stelle elektronisch abrufen. Das nach § 87a
-Absatz 6 Satz 1 der Abgabenordnung eingesetzte sichere Verfahren
-ersetzt im Falle der Identifizierung und Authentifizierung am
-Organisationskonto eine durch Rechtsvorschrift angeordnete
-Schriftform.
+(6) Für die Verarbeitung personenbezogener Daten im Nutzerkonto nach den Absätzen 1 bis 5 ist die für das Nutzerkonto jeweils zuständige Stelle nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679 ausschließlich verantwortlich. Teilen sich mehrere Stellen die Zuständigkeit für ein Nutzerkonto, sind diese nach Artikel 4 Nummer 7 der Verordnung (EU) 2016/679 gemeinsam verantwortlich. Die datenschutzrechtliche Verantwortlichkeit der für die Verwaltungsleistung, für das Verwaltungsportal oder für den Onlinedienst zuständigen Stelle bleibt unberührt.
 
-(7) Bis zum Ablauf des 30. Juni 2023 werden die nach § 87a Absatz 6
-der Abgabenordnung in der Steuerverwaltung bis einschließlich 31.
-Dezember 2019 eingesetzten sicheren Verfahren bundesweit zum Nachweis
-der Identität auf dem Vertrauensniveau „substantiell“ anerkannt. Satz
-1 gilt nicht für Verwaltungsleistungen im Anwendungsbereich der
-Abgabenordnung.
 
-(8) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates festzulegen, welche elektronischen
-Identifizierungsmittel im Rahmen der Interoperabilität der
-Nutzerkonten von Bund und Ländern zum Nachweis der Identität
-eingesetzt werden können, die Details eines Anerkennungsverfahrens
-festzulegen und die technischen Rahmenbedingungen zur Sicherstellung
-der Interoperabilität der Nutzerkonten zu bestimmen.
-
+(7) Soweit nach den Absätzen 3 bis 5 Daten verarbeitet werden dürfen, gilt dies auch für besondere Kategorien personenbezogener Daten nach Artikel 9 Ab- satz 1 der Verordnung (EU) Nr. 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
 ## § 9 Bekanntgabe des Verwaltungsaktes
 
