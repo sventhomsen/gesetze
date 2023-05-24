@@ -437,7 +437,7 @@ Der Nutzer legt fest, in welchem Umfang das Datenschutzcockpit Protokolldaten ei
 ## § 11 Übergangsregelung zum Einsatz des Datenschutzcockpits
 
 Bis zum Inkrafttreten des § 10 darf ein Datenschutzcockpit mit
-Zustimmung des Bundesministeriums des Innern, für Bau und Heimat in
+Zustimmung des Bundesministeriums des Innern, und für Heimat in
 Pilotverfahren angewendet werden, in denen der Nutzer einen Antrag auf
 eine oder mehrere Verwaltungsleistungen stellt und dabei einwilligt,
 dass erforderliche Nachweise durch einen automatisierten
