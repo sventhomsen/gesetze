@@ -409,12 +409,29 @@ Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
 (6) Eine durch Rechtsvorschrift angeordnete Schriftform kann bei elektronischen Verwaltungsakten oder sonstigen elektronischen Dokumenten der Behörde, die an das Postfach eines Nutzerkontos übermittelt werden, auch dadurch ersetzt werden, dass diese mit dem qualifizierten elektronischen Siegel der Behörde versehen werden.
 
 
+## § 10 Datenschutzcockpit; Verordnungsermächtigung
 
+ (1) Ein „Datenschutzcockpit“ ist eine IT-Komponente, mit der sich natürliche Personen Auskünfte zu Datenübermittlungen zwischen öffentlichen Stellen anzeigen lassen können. Erfasst werden diejenigen Datenübermittlungen, bei denen eine Identifikationsnummer nach § 5 des Identifikationsnummerngesetzes zum Einsatz kommt.
 
+(2) Im Datenschutzcockpit werden nach Maßgabe von Absatz 4 Satz 3 ausschließlich Protokolldaten nach § 9 des Identifikationsnummerngesetzes einschließlich der dazu übermittelten Inhaltsdaten sowie die Bestandsdaten der Register angezeigt. Diese Daten werden im Datenschutzcockpit nur für die Dauer des jeweiligen Nutzungsvorgangs gespeichert; nach Beendigung des Nutzungsvorgangs sind sie unverzüglich zu löschen. Der Auskunftsanspruch nach Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) bleibt unberührt. Das Datenschutzcockpit ist aus Sicht des Nutzers einfach und zweckmäßig auszugestalten. Es sind technische und organisatorische Maßnahmen vorzusehen, damit staatliche Eingriffe zum Nachteil des Nutzers nicht möglich sind.
 
+(3) Jede natürliche Person kann sich bei der öffentlichen Stelle, die das Datenschutzcockpit betreibt, für ein Datenschutzcockpit registrieren. Sie hat sich bei der Registrierung und Nutzung des Datenschutzcockpits mit einem Identifizierungsmittel auf dem Vertrauensniveau hoch zu identifizieren. Zur Feststellung der Identität darf bei Registrierung und Nutzung das dienste- und kartenspezifische Kennzeichen verarbeitet werden. Im Übrigen kann sich der Nutzer auch mit einem Nutzerkonto des Portalverbundes beim Datenschutzcockpit registrieren. In diesem Fall darf die für das Nutzerkonto zuständige Stelle das dienste- und kartenspezifische Kennzeichen an die für das Datenschutzcockpit zuständige Stelle übermitteln.
 
-## § 10 
+(4) Das Datenschutzcockpit darf die Identifikationsnummer nach § 139b der Abgabenordnung als Identifikator für die Anfrage zur Erhebung und Anzeige der Daten nach Absatz 2 verarbeiten. Zur Anfrage nach § 6 des Identifikationsnummerngesetzes erhebt das Datenschutzcockpit bei der Registrierung des Nutzers folgende Daten:
 
+    Namen,
+
+    Vornamen,
+
+    Anschrift,
+
+    Geburtsname und
+
+    Tag der Geburt. 
+
+Der Nutzer legt fest, in welchem Umfang das Datenschutzcockpit Protokolldaten einschließlich der übermittelten Inhaltsdaten sowie die Bestandsdaten der Register nach Absatz 2 erheben und anzeigen darf. Auf diese Daten hat nur der Nutzer Zugriff. Der Nutzer muss sein Konto im Datenschutzcockpit jederzeit selbst löschen können. Das Konto im Datenschutzcockpit wird automatisiert gelöscht, wenn es drei Jahre nicht verwendet wurde.
+
+(5) Das Datenschutzcockpit wird von einer öffentlichen Stelle errichtet und betrieben, die durch Rechtsverordnung des Bundesministeriums des Innern und für Heimat im Benehmen mit dem IT-Planungsrat mit Zustimmung des Bundesrates bestimmt wird.  Das Nähere zu den technischen Verfahren, den technischen Formaten der Datensätze und den Übertragungswegen legt das Bundesministerium des Innern und für Heimat im Benehmen mit dem IT-Planungsrat mit Zustimmung des Bundesrates durch Rechtsverordnung fest. 
 
 
 ## § 11 Übergangsregelung zum Einsatz des Datenschutzcockpits
