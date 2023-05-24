@@ -359,6 +359,16 @@ Telefon- oder Mobilfunknummer, Telefaxnummer.
 
 (7) Soweit nach den Absätzen 3 bis 5 Daten verarbeitet werden dürfen, gilt dies auch für besondere Kategorien personenbezogener Daten nach Artikel 9 Ab- satz 1 der Verordnung (EU) Nr. 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
 
+## § 8a Rechtsgrundlagen der Datenverarbeitung in einem Onlinedienst
+
+(1) Die einen Onlinedienst betreibende Behörde darf die für die Zwecke der Un- terstützung bei der Inanspruchnahme einer elektronischen Verwaltungsleistung, der Offenlegung der Daten aus dem Online-Formular an die jeweils zuständige Behörde sowie der Übermittlung von elektronischen Dokumenten zu Verwaltungsvorgängen an den Nutzer erforderlichen personenbezogenen Daten verarbeiten. Dies gilt auch für die Verarbeitung von besonderen Kategorien personenbezogener Daten im Sinne des Ar- tikels 9 Absatz 1 der Verordnung (EU) Nr. 2016/679, soweit diese für das an den Onli- nedienst angeschlossene Verwaltungsverfahren erforderlich sind. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+(2) Die für die Unterstützung bei der Inanspruchnahme einer elektronischen Ver- waltungsleistung erforderlichen Daten können im Onlinedienst zwischengespeichert werden, um dem Nutzer die Möglichkeit zu bieten, das Online-Formular zu einem späteren Zeitpunkt zu vervollständigen, zu korrigieren oder zu löschen. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt im Rahmen der Zwischenspeicherung besonderer Kategorien personenbezogener Daten im Sinne des Artikel 9 Absatz 1 Verordnung (EU) Nr. 2016/679 entsprechend.
+
+(3) Die zwischengespeicherten Daten sind in der Regel nach Ablauf von 30 Tagen nach der letzten Bearbeitung des Online-Formulars durch den Nutzer automatisch zu löschen. Der Nutzer ist über die automatische Löschung der zwischengespeicherten Daten zu seinem Online-Formular vorab zu informieren. Die längerfristige Speicherung von Daten im Onlinedienst ist ausnahmsweise zulässig, wenn zu erwarten ist, dass dies für die Unterstützung des Nutzers bei der Inanspruchnahme einer elektronischen Verwaltungsleistung erforderlich ist. In solchen Fällen ist eine angemessene Löschfrist festzulegen. Der Nutzer ist über diese Löschfrist zu informieren.
+
+(4) Verantwortlicher im Sinne von Artikel 4 Nummer 7 der Verordnung (EU) Nr. 2016/679 für die Verarbeitung personenbezogener Daten im Onlinedienst nach den Absätzen 1 bis 3 ist ausschließlich die den Onlinedienst betreibende Behörde. Die datenschutzrechtliche Verantwortlichkeit der Behörde, an die zum Zwecke der Durchführung des Verwaltungsverfahrens personenbezogene Daten übermittelt werden, bleibt unberührt.
+
 ## § 9 Bekanntgabe des Verwaltungsaktes
 
 (1) Mit Einwilligung des Nutzers kann ein elektronischer
