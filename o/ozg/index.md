@@ -156,12 +156,12 @@ vorgegebenen Verfahren sicherzustellen.
 (3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1, soll dort, wo es technisch möglich und wirtschaftlich ist, Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt.
 
 
-## § 5 IT-Sicherheit
+## § 5 IT-Sicherheit; Verordnungsermächtigung;
 
 Für die im Portalverbund und für die zur Anbindung an den
 Portalverbund genutzten IT-Komponenten werden die zur Gewährleistung
 der IT-Sicherheit erforderlichen Standards durch Rechtsverordnung des
-Bundesministeriums des Innern, für Bau und Heimat ohne Zustimmung des
+Bundesministeriums des Innern und für Heimat ohne Zustimmung des
 Bundesrates festgelegt. Die Einhaltung der Standards der IT-Sicherheit
 ist für alle Stellen verbindlich, die entsprechende IT-Komponenten
 nutzen. Von den in der Rechtsverordnung getroffenen Regelungen kann
