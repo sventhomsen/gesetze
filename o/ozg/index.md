@@ -9,6 +9,9 @@ slug: ozg
 
 # Gesetz zur Verbesserung des Onlinezugangs zu Verwaltungsleistungen (OZG)
 
+Fassung
+:   2023-08-24 Entwurf eines Gesetzes zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz – OZGÄndG)
+
 Ausfertigungsdatum
 :   2017-08-14
 
