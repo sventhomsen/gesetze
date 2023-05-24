@@ -132,7 +132,7 @@ b) nach Ablauf des ... [einsetzen: Angaben des Tages und des Monats des Inkraftt
 
 ## § 3b Veröffentlichung von Standards
 
-Das Bundesministerium des Innern und für Heimat oder die von ihm beauftragte Stelle veröffentlicht in strukturierter Form digital an zentraler Stelle die im Anwendungs- bereich des Onlinezugangsgesetzes von Bund und Ländern angewendeten Standards. Zu Schnittstellen von IT-Komponenten sollen Spezifikationen und Dokumentationen in der jeweils aktuellen Fassung veröffentlicht werden.
+Das Bundesministerium des Innern und für Heimat oder die von ihm beauftragte Stelle veröffentlicht in strukturierter Form digital an zentraler Stelle die im Anwendungsbereich des Onlinezugangsgesetzes von Bund und Ländern angewendeten Standards. Zu Schnittstellen von IT-Komponenten sollen Spezifikationen und Dokumentationen in der jeweils aktuellen Fassung veröffentlicht werden.
 
 ## § 4 Elektronische Abwicklung von Verwaltungsverfahren
 
