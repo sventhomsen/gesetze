@@ -169,28 +169,21 @@ durch Landesrecht nicht abgewichen werden. § 4 Absatz 2 gilt
 entsprechend.
 
 
-## § 6 Kommunikationsstandards
+## § 6 Kommunikationsstandards; Verordnungsermächtigungen
 
 (1) Für die Kommunikation zwischen den im Portalverbund genutzten
 informationstechnischen Systemen legt das Bundesministerium des
-Innern, für Bau und Heimat im Benehmen mit dem IT-Planungsrat durch
+Innern und für Heimat im Benehmen mit dem IT-Planungsrat durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die technischen
 Kommunikationsstandards fest.
 
-(2) Für die Anbindung von Verwaltungsverfahren, die der Ausführung von
-Bundesgesetzen dienen, an die im Portalverbund genutzten
-informationstechnischen Systeme legt das für das jeweilige
-Bundesgesetz innerhalb der Bundesregierung zuständige
-Bundesministerium im Einvernehmen mit dem Bundesministerium des
-Innern, für Bau und Heimat durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die technischen Kommunikationsstandards fest. Das
-Bundesministerium des Innern, für Bau und Heimat setzt sich mit dem
+(2) Für die Anbindung von Verwaltungsverfahren, die der Durchführung unmittelbar geltender Rechtsakte der Europäischen Union, für die dem Bund die Ge- setzgebungskompetenz zusteht, oder der Ausführung von Bundesgesetzen dienen, an die im Portalverbund genutzten informationstechnischen Systeme und für die Abwicklung dieser Verwaltungsverfahren über den Portalverbund legt das für den jeweiligen Rechtsakt oder das jeweilige Bundesgesetz zuständige Bundesministerium im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung ohne Zustimmung des Bun- desrates die technischen Kommunikationsstandards fest. Das Bundesministerium des Innern und für Heimat setzt sich mit dem
 IT-Planungsrat hierzu ins Benehmen.
 
 (3) Für die Anbindung der der Ausführung sonstiger
 Verwaltungsverfahren dienenden informationstechnischen Systeme an im
 Portalverbund genutzte informationstechnische Systeme legt das
-Bundesministerium des Innern, für Bau und Heimat im Benehmen mit dem
+Bundesministerium des Innern und für Heimat im Benehmen mit dem
 IT-Planungsrat durch Rechtsverordnung ohne Zustimmung des Bundesrates
 die technischen Kommunikationsstandards fest.
 
