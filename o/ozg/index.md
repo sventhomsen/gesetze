@@ -32,22 +32,18 @@ Zuletzt geändert durch
 
 (1) Dieses Gesetz gilt für Verwaltungsleistungen der öffentlichen Stellen
 
-1. des Bundes sowie der bundesunmittelbaren Körperschaften, Anstalten und Stif- tungen des öffentlichen Rechts,
+1. des Bundes sowie der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts,
 
-2. der Länder, einschließlich der Gemeinden und Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öf- fentlichen Rechts.
+2. der Länder, einschließlich der Gemeinden und Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts.
 
-(2) Für die Tätigkeit der Gerichtsverwaltungen und der Behörden der Justizver-
-waltung einschließlich der ihrer Aufsicht unterliegenden Körperschaften des öffentli- chen Rechts gilt dieses Gesetz nur, soweit die Tätigkeit der Nachprüfung durch die Gerichte der Verwaltungsgerichtsbarkeit oder der Nachprüfung durch die in verwal- tungsrechtlichen Anwalts-, Patentanwalts- und Notarsachen zuständigen Gerichte un- terliegt.
+(2) Für die Tätigkeit der Gerichtsverwaltungen und der Behörden der Justizverwaltung einschließlich der ihrer Aufsicht unterliegenden Körperschaften des öffentlichen Rechts gilt dieses Gesetz nur, soweit die Tätigkeit der Nachprüfung durch die Gerichte der Verwaltungsgerichtsbarkeit oder der Nachprüfung durch die in verwaltungsrechtlichen Anwalts-, Patentanwalts- und Notarsachen zuständigen Gerichte unterliegt.
 
 
 ## § 1a Portalverbund für digitale Verwaltungsleistungen
 
-(1) Bund und Länder sind verpflichtet,
-ihre Verwaltungsleistungen auch elektronisch über Verwaltungsportale
-anzubieten. Davon abweichend sollen Verwaltungsleistungen, die der Ausführung von Bundesgesetzen auf dem Gebiet des Rechts der Wirtschaft dienen und ausschließlich Nutzer im Sinne des § 2 Absatz 4 Nummer 2 und 3 betreffen, spätestens mit Ablauf des fünften auf die Verkündung des Gesetzes vom ... [einsetzen: Ausfertigungsdatum und Fundstelle dieses Gesetzes] folgenden Kalenderjahres ausschließlich elektronisch angeboten werden. Davon kann bei berechtigtem Interesse des Nutzers abgewichen werden. Erfolgt ein ausschließlich elektronisches Angebot bereits vor Ablauf des Zeitraums nach Satz 2, ist darüber an geeigneter Stelle mit angemessenem Vorlauf digital zu informieren.
+(1) Bund und Länder sind verpflichtet, ihre Verwaltungsleistungen auch elektronisch über Verwaltungsportale anzubieten. Davon abweichend sollen Verwaltungsleistungen, die der Ausführung von Bundesgesetzen auf dem Gebiet des Rechts der Wirtschaft dienen und ausschließlich Nutzer im Sinne des § 2 Absatz 4 Nummer 2 und 3 betreffen, spätestens mit Ablauf des fünften auf die Verkündung des Gesetzes vom ... [einsetzen: Ausfertigungsdatum und Fundstelle dieses Gesetzes] folgenden Kalenderjahres ausschließlich elektronisch angeboten werden. Davon kann bei berechtigtem Interesse des Nutzers abgewichen werden. Erfolgt ein ausschließlich elektronisches Angebot bereits vor Ablauf des Zeitraums nach Satz 2, ist darüber an geeigneter Stelle mit angemessenem Vorlauf digital zu informieren.
 
-(2) Bund und Länder sind verpflichtet, ihre Verwaltungsportale
-miteinander zu einem Portalverbund zu verknüpfen, sodass Nutzer über alle Verwaltungsportale von Bund und Ländern einen medienbruch- und barrierefreien Zugang zu elektronischen Verwaltungsleistungen dieser Verwaltungsträger erhalten. Die Länder sind verpflichtet, die technischen und organisatorischen Voraussetzungen für die Anbindung der Gemeinden und Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts an den Portalverbund sicherzustellen.
+(2) Bund und Länder sind verpflichtet, ihre Verwaltungsportale miteinander zu einem Portalverbund zu verknüpfen, sodass Nutzer über alle Verwaltungsportale von Bund und Ländern einen medienbruch- und barrierefreien Zugang zu elektronischen Verwaltungsleistungen dieser Verwaltungsträger erhalten. Die Länder sind verpflichtet, die technischen und organisatorischen Voraussetzungen für die Anbindung der Gemeinden und Gemeindeverbände sowie der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des öffentlichen Rechts an den Portalverbund sicherzustellen.
 
 (3) Der Bund stellt im Verwaltungsportal des Bundes für die Suche nach elektronischen Verwaltungsleistungen im Portalverbund einen Suchdienst bereit. Auf Grundlage einer Verwaltungsvereinbarung mit dem Bundesministerium des Innern und für Heimat können Länder diesen Suchdienst auch für ihre Verwaltungsportale mitnutzen.
 
