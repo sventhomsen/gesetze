@@ -102,30 +102,37 @@ sind.
 
 
 
-## § 3 Ziel des Portalverbundes; Nutzerkonten
+## § 3 Nutzerkonten, Identifizierung und Authentifizierung; Verordnungsermächtigung
 
-(1) Der Portalverbund stellt sicher, dass Nutzer über alle
-Verwaltungsportale von Bund und Ländern einen barriere- und
-medienbruchfreien Zugang zu elektronischen Verwaltungsleistungen
-dieser Verwaltungsträger erhalten.
+(1) Die Identifizierung und Authentifizierung der Nutzer im Sinne des § 2 Absatz 4 Nummer 1 für die Inanspruchnahme elektronischer Verwaltungsleistungen im Portalverbund erfolgt, soweit nicht durch Bundesgesetz etwas anderes bestimmt ist, über ein zentrales Bürgerkonto, das der Bund bereitstellt. Die Verwendung des Bürgerkontos ist für die Nutzer freiwillig. Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu bestimmen, welche öffentliche Stelle des Bundes das Bürgerkonto bereitstellt.
 
-(2) Bund und Länder stellen im Portalverbund Nutzerkonten bereit, über
-die sich Nutzer für die im Portalverbund verfügbaren elektronischen
-Verwaltungsleistungen von Bund und Ländern einheitlich identifizieren
-und authentifizieren können. Das Bundesministerium des Innern, für Bau
-und Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des
-Bundesrates zu bestimmen, welche staatlichen Stellen im Portalverbund
-ein einheitliches Organisationskonto bereitstellen. Über das
-Organisationskonto können sich Nutzer im Sinne des § 2 Absatz 5 Satz 4
-für die im Portalverbund verfügbaren elektronischen
-Verwaltungsleistungen von Bund und Ländern einheitlich über ein nach §
-87a Absatz 6 der Abgabenordnung in der Steuerverwaltung eingesetztes
-sicheres Verfahren identifizieren und authentisieren. Der Einsatz von
-Identifizierungs- und Authentifizierungsmitteln für natürliche
-Personen ist dadurch nicht ausgeschlossen. Die besonderen
-Anforderungen einzelner Verwaltungsleistungen an die Identifizierung
-und Authentifizierung ihrer Nutzer sind zu berücksichtigen.
+(2) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, welche staatlichen Stellen ein einheitliches Organisationskonto im Portalverbund bereitstellen.
 
+
+(3) Für öffentliche Stellen, die Verwaltungsleistungen im Portalverbund anbieten, ist die Verwendung des Organisationskontos verpflichtend.
+
+(4) Der Nachweis der Identität des Nutzers erfolgt
+
+1. im Bürgerkonto durch einen elektronischen Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes oder durch ein anderes elektronisches Identifizierungsmittel, welches nach Artikel 6 der Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) mit dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014 anerkannt worden ist, und
+
+2. im einheitlichen Organisationskonto
+
+a) bis zum Ablauf des ... [einsetzen: Angaben des Tages und des Monats des Inkrafttretens dieses Gesetzes nach Artikel 9 sowie der Jahreszahl des fünften auf das Inkrafttreten des Gesetzes folgenden Jahres] durch ein sicheres Verfahren nach § 87a Absatz 6 der Abgabenordnung oder durch ein anderes elektronisches Identifizierungsmittel, welches nach Artikel 6 der Verordnung (EU) Nr. 910/2014 mindestens mit dem Sicherheitsniveau „substantiell“ im Sinne des Artikels 8 Absatz 2 Buchstabe b der Verordnung (EU) Nr. 910/2014 anerkannt worden ist,
+
+b) nach Ablauf des ... [einsetzen: Angaben des Tages und des Monats des Inkrafttretens dieses Gesetzes nach Artikel 9 sowie der Jahreszahl des fünften auf das Inkrafttreten des Gesetzes folgenden Jahres] durch ein elektronisches Identifizierungsmittel auf dem Sicherheitsniveau „hoch“ im Sinne des Artikels 8 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 910/2014.
+
+(5) Über den Nachweis der Identität nach Absatz 4 hinausgehende Anforderungen an die Identifizierung einer Person, die zur Durchführung eines Verwaltungsverfahrens erforderlich sind, bleiben unberührt.
+
+
+## § 3a Beratungsangebot im Portalverbund
+
+(1) Bund und Länder stellen für Nutzer im Portalverbund eine allgemeine fachunabhängige, barrierearme Beratung für die Abwicklung ihrer über Verwaltungsportale angebotenen, elektronischen Verwaltungsleistungen bereit und bestimmen dafür öffentliche Stellen. Diese öffentlichen Stellen unterstützen Nutzer bei der Abwicklung von Verwaltungsleistungen im Portalverbund.
+
+(2) Die beteiligten Stellen dürfen die von der betroffenen Person übermittelten, zur Aufgabenerfüllung nach Absatz 1 erforderlichen personenbezogenen Daten verarbeiten. Soweit hierzu die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1, L 314 vom 22.11.2016, S 72, L 127 vom 23.5.2018, S. 2, L 74 vom 4.3.2021, S. 35) erforderlich ist, dürfen die beteiligten Stellen sie auf Veranlassung des Nutzers verarbeiten. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt entsprechend.
+
+## § 3b Veröffentlichung von Standards
+
+Das Bundesministerium des Innern und für Heimat oder die von ihm beauftragte Stelle veröffentlicht in strukturierter Form digital an zentraler Stelle die im Anwendungs- bereich des Onlinezugangsgesetzes von Bund und Ländern angewendeten Standards. Zu Schnittstellen von IT-Komponenten sollen Spezifikationen und Dokumentationen in der jeweils aktuellen Fassung veröffentlicht werden.
 
 ## § 4 Elektronische Abwicklung von Verwaltungsverfahren
 
