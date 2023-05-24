@@ -84,7 +84,7 @@ Authentifizierung der Nutzer zu Zwecken der Inanspruchnahme von
 Verwaltungsleistungen der öffentlichen Verwaltung sowie zur vorgangsbezogenen Kommunikation über ein Postfach im Sinne des Absatzes 7. Ein
 Nutzerkonto wird als Bürger- oder Organisationskonto bereitgestellt.
 Das „Bürgerkonto“ ist ein Nutzerkonto, das natürlichen Personen zur
-Verfügung steht. Das „Organisationskonto“ ist ein Nutzerkonto, as Unternehmen im Sinne des § 3 Absatz 1 des Unternehmensbasisdatenregistergesetzes, sonstigen juristischen Personen und Vereinigungen, soweit ihnen ein Recht zustehen kann, sowie Behörden zur Verfügung steht.
+Verfügung steht. Das „Organisationskonto“ ist ein Nutzerkonto, das Unternehmen im Sinne des § 3 Absatz 1 des Unternehmensbasisdatenregistergesetzes, sonstigen juristischen Personen und Vereinigungen, soweit ihnen ein Recht zustehen kann, sowie Behörden zur Verfügung steht.
 
 (6) „IT-Komponenten“ im Sinne dieses Gesetzes sind IT-Anwendungen,
 Basisdienste und die elektronische Realisierung von Standards,
