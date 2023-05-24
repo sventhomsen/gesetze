@@ -134,10 +134,10 @@ b) nach Ablauf des ... [einsetzen: Angaben des Tages und des Monats des Inkraftt
 
 Das Bundesministerium des Innern und für Heimat oder die von ihm beauftragte Stelle veröffentlicht in strukturierter Form digital an zentraler Stelle die im Anwendungsbereich des Onlinezugangsgesetzes von Bund und Ländern angewendeten Standards. Zu Schnittstellen von IT-Komponenten sollen Spezifikationen und Dokumentationen in der jeweils aktuellen Fassung veröffentlicht werden.
 
-## § 4 Elektronische Abwicklung von Verwaltungsverfahren
+## § 4 Elektronische Abwicklung von Verwaltungsverfahren;  Verordnungsermächtigung
 
 (1) Für die elektronische Abwicklung von Verwaltungsverfahren, die der
-Durchführung unmittelbar geltender Rechtsakte der Europäischen Union
+Durchführung unmittelbar geltender Rechtsakte der Europäischen Union, für die dem Bund die Gesetzgebungskompetenz zusteht,
 oder der Ausführung von Bundesgesetzen dienen, wird die
 Bundesregierung ermächtigt, im Benehmen mit dem
 IT-Planungsrat              durch Rechtsverordnung ohne Zustimmung des
@@ -152,6 +152,8 @@ Komponenten bereitstellen.
 (2) Die Länder sind verpflichtet, die technischen und
 organisatorischen Voraussetzungen für den Einsatz der nach Absatz 1
 vorgegebenen Verfahren sicherzustellen.
+
+(3) Bei der Bereitstellung der IT-Komponenten im Sinne des Absatzes 1, soll dort, wo es technisch möglich und wirtschaftlich ist, Open-Source-Software vorrangig vor solcher Software eingesetzt werden, deren Quellcode nicht öffentlich zugänglich ist oder deren Lizenz die Verwendung, Weitergabe und Veränderung einschränkt.
 
 
 ## § 5 IT-Sicherheit
