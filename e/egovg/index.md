@@ -32,7 +32,7 @@ Verwaltungstätigkeit der Behörden des Bundes einschließlich der
 bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
 öffentlichen Rechts.
 
-(2) Dieses Gesetz mit Ausnahme der §§ 9a bis 9c gilt auch für die
+(2) Dieses Gesetz mit Ausnahme der §§ 2a, 9a bis 9c gilt auch für die
 öffentlich-rechtliche Verwaltungstätigkeit der Behörden der Länder,
 der Gemeinden und Gemeindeverbände und der sonstigen der Aufsicht des
 Landes unterstehenden juristischen Personen des öffentlichen Rechts,
@@ -71,7 +71,8 @@ inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.
 
 (1) Jede Behörde ist verpflichtet, auch einen Zugang für die
 Übermittlung elektronischer Dokumente, auch soweit sie mit einer
-qualifizierten elektronischen Signatur versehen sind, zu eröffnen.
+qualifizierten elektronischen Signatur oder einem qualifizierten 
+elektronischen Siegel versehen sind, zu eröffnen.
 
 (2) Jede Behörde des Bundes ist verpflichtet, den elektronischen
 Zugang zusätzlich durch eine De-Mail-Adresse im Sinne des De-Mail-
@@ -86,7 +87,25 @@ Rechtsvorschrift festzustellen hat oder aus anderen Gründen eine
 Identifizierung für notwendig erachtet, einen elektronischen
 Identitätsnachweis nach § 18 des Personalausweisgesetzes, nach § 12
 des eID-Karte-Gesetzes oder nach § 78 Absatz 5 des Aufenthaltsgesetzes
-anzubieten.
+anzubieten. Mit der Anbindung an das Bürgerkonto nach § 3 Absatz 1 des
+Onlinezugangsgesetzes wird diese Verpflichtung erfüllt.
+
+
+## § 2a Siegeldienst; Verordnungsermächtigung
+
+(1) Das Bundesministerium des Innern und für Heimat wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+eine öffentliche Stelle des Bundes zu bestimmen, die den Behörden des
+Bundes zur Unterstützung ihrer elektronischen Verwaltungstätigkeit einen
+zentralen Siegeldienst bereitstellt.
+
+(2) Der zentrale Siegeldienst erfüllt mindestens die folgenden
+Basisfunktionen:
+
+1.  Erstellung qualifizierter elektronischer Siegel,
+2.  Validierung qualifizierter elektronischer Siegel und Signaturen sowie
+3.  Erstellung digitaler Siegel zum optisch verifizierbaren
+    kryptographischen Schutz von Verwaltungsdokumenten.
 
 
 ## § 3 Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen
@@ -102,13 +121,14 @@ rechtliche Tätigkeit, damit verbundene Gebühren, beizubringende
 Unterlagen und die zuständige Ansprechstelle und ihre Erreichbarkeit
 informieren sowie erforderliche Formulare bereitstellen.
 
-(2a) Die obersten Bundesbehörden sollen mit Unterstützung einer
-zentralen Bundesredaktion zu leistungsbegründenden Gesetzen und
-Verordnungen des Bundes allgemeine Leistungsinformationen in
-standardisierter Form bereitstellen, soweit noch keine Informationen
-in geeigneter Form abgerufen werden können.
+(3) Die obersten Bundesbehörden stellen mit Unterstützung einer
+Bundesredaktion insbesondere zu neuen und zu ändernden
+leistungsbegründenden Rechtsvorschriften des Bundes nach dem vom
+IT-Planungsrat beschlossenen Standard allgemeine Leistungsinformationen
+zur Verfügung. Unter Leistungsinformationen fallen Leistungszuschnitte
+und -beschreibungen sowie Prozess- und Datenfeldinformationen.
 
-(3) Für Gemeinden und Gemeindeverbände gelten die Absätze 1 und 2 nur
+(4) Für Gemeinden und Gemeindeverbände gelten die Absätze 1 und 2 nur
 dann, wenn dies nach Landesrecht angeordnet ist.
 
 
@@ -118,8 +138,8 @@ dann, wenn dies nach Landesrecht angeordnet ist.
 Verwaltungsverfahrens Gebühren oder sonstige Forderungen an, muss die
 Behörde die Einzahlung dieser Gebühren oder die Begleichung dieser
 sonstigen Forderungen durch Teilnahme an mindestens einem im
-elektronischen Geschäftsverkehr üblichen und hinreichend sicheren
-Zahlungsverfahren ermöglichen.
+elektronischen Geschäftsverkehr üblichen, barrierefreien und hinreichend
+sicheren Zahlungsverfahren ermöglichen.
 
 (2) Erfolgt die Einzahlung von Gebühren oder die Begleichung sonstiger
 Forderungen durch ein elektronisches Zahlungsabwicklungsverfahren des
@@ -180,30 +200,135 @@ können sich beziehen auf
     Angelegenheiten des Auswärtigen Dienstes.
 
 
+(4) Als Rechnung oder gleichwertige Zahlungsaufstellung im Sinne von
+§ 286 Absatz 3 des Bürgerlichen Gesetzbuchs gelten Rechnungen, die von der
+Verpflichtung zur elektronischen Einreichung nach Absatz 1 sowie nach
+Vorschriften auf Grundlage von Absatz 3 erfasst sind, nur dann, wenn sie
+elektronisch im Sinne dieses Gesetzes und der Rechtsverordnung nach Absatz 3
+gestellt werden. In diesem Fall ist § 1 Absatz 4 nicht anzuwenden.
+
+
+(5) Das Beschaffungsamt des Bundesministeriums des Innern und für Heimat ist
+zuständig für die fachliche Betreuung und zentrale Steuerung des
+elektronischen Rechnungsverkehrs in der gesamten Bundesverwaltung. Das
+Beschaffungsamt des Bundesministeriums des Innern und für Heimat hat hierbei
+in Zusammenarbeit mit den beteiligten Stellen insbesondere die Aufgabe, den
+elektronischen Rechnungsverkehr in der Bundesverwaltung kontinuierlich
+weiterzuentwickeln und die Interessen der Bundesrepublik Deutschland in
+Angelegenheiten des elektronischen Rechnungsverkehrs in diesem Bereich in
+nationalen, europäischen und internationalen Gremien zu vertreten.
 
 
 
-## § 5 Nachweise
+## § 5 Nachweisabruf; Nachweiserbringung
 
-(1) Wird ein Verwaltungsverfahren elektronisch durchgeführt, können
-die vorzulegenden Nachweise elektronisch eingereicht werden, es sei
-denn, dass durch Rechtsvorschrift etwas anderes bestimmt ist oder die
-Behörde für bestimmte Verfahren oder im Einzelfall die Vorlage eines
-Originals verlangt. Die Behörde entscheidet nach pflichtgemäßem
-Ermessen, welche Art der elektronischen Einreichung zur Ermittlung des
-Sachverhalts zulässig ist.
+(1) Wird ein antragsgebundenes Verwaltungsverfahren elektronisch durchgeführt,
+erfolgt die Nachweiserbringung auf elektronischem Wege nach Wahl des
+Antragstellers, 
 
-(2) Die zuständige Behörde kann erforderliche Nachweise, die von einer
-deutschen öffentlichen Stelle stammen, mit der Einwilligung der am
-Verfahren beteiligten betroffenen Person direkt bei der ausstellenden
-öffentlichen Stelle elektronisch einholen. Zu diesem Zweck dürfen die
-anfordernde Behörde und die abgebende öffentliche Stelle die
-erforderlichen personenbezogenen Daten verarbeiten.
-
-(3) (weggefallen)
+1.  indem die nachweisanfordernde Stelle den jeweiligen Nachweis automatisiert
+    bei der nachweisliefernden Stelle abruft, sofern der jeweils erforderliche
+    Nachweis des Antragstellers elektronisch vorliegt und ohne zeitlichen
+    Verzug automatisiert abgerufen werden kann, oder 
 
 
-## § 6 Elektronische Aktenführung
+2.  indem der Antragsteller den jeweiligen Nachweis elektronisch einreicht.
+
+
+Die §§ 24 bis 27 des Verwaltungsverfahrensgesetzes bleiben unberührt. Die
+Verantwortung für die Zulässigkeit der Nachweiserhebung und des Nachweisabrufs
+nach Satz 1 Nummer 1 in Verbindung mit den Absätzen 3 bis 5 trägt die
+nachweisanfordernde Stelle.
+
+
+(2) Nachweise im Sinne dieses Gesetzes sind Unterlagen und Daten jeder Art
+unabhängig vom verwendeten Medium, die zur Ermittlung des Sachverhalts geeignet
+sind. Nachweisanfordernde Stelle kann die für die Entscheidung über den Antrag
+zuständige Behörde oder auch eine andere öffentliche Stelle sein, die dafür
+zuständig ist, Nachweise einzuholen und an die für die Entscheidung über den
+Antrag zuständige Behörde weiterzuleiten. Nachweisliefernde Stelle ist diejenige
+öffentliche Stelle, die dafür zuständig ist, den Nachweis auszustellen.
+
+
+(3) Hat sich der Antragsteller für den automatisierten Nachweisabruf
+entschieden, darf die nachweisanfordernde Stelle den Nachweis des Antragstellers
+bei der nachweisliefernden Stelle abrufen und die nachweisliefernde Stelle darf
+den Nachweis an die nachweisanfordernde Stelle übermitteln, wenn 
+
+1.  dies zur Erfüllung der Aufgabe der nachweisanfordernden Stelle erforderlich
+    ist und
+
+2.  die nachweisanfordernde Stelle den Nachweis auch aufgrund anderer
+    Rechtsvorschriften beim Antragsteller erheben dürfte.
+
+Die in Absatz 2 Satz 2 genannte andere öffentliche Stelle darf den Nachweis an
+die für die Entscheidung über den Antrag zuständige Stelle übermitteln.
+
+
+(4) Soll der Nachweis aus einem Register, welches in der Anlage zum
+Identifikationsnummerngesetz vom 28. März 2021 (BGBl. I S. 591), das durch
+Artikel 15 des Gesetzes vom 28. Juni 2021 (BGBl. I S. 2250) geändert worden ist,
+aufgeführt ist, abgerufen werden, darf die nachweisanfordernde Stelle die
+Identifikationsnummer nach § 1 des Identifikationsnummerngesetzes zur Zuordnung
+der Datensätze zum Antragsteller und zum Abruf des Nachweises an die
+nachweisliefernde Stelle übermitteln. Das Nachweisabrufersuchen darf zusätzlich
+weitere Daten im Sinne von § 4 Absatz 2 und 3 des
+Identifikationsnummerngesetzes, in der Regel das Geburtsdatum, zur Validierung
+der Zuordnung enthalten. Zu diesem Zweck darf die nachweisliefernde Stelle
+diese Daten verarbeiten.
+
+
+(5) Bevor die für die Entscheidung über den Antrag zuständige Behörde den
+abgerufenen Nachweis verwenden darf, um die antragsgebundene Verwaltungsleistung
+zu erbringen, hat der Antragsteller im Fall des Absatzes 1 Satz 1 Nummer 1 die
+Möglichkeit, den Nachweis vorab einzusehen. Der Antragsteller kann entscheiden,
+ob der Nachweis für das Antragsverfahren verwendet werden soll. 
+
+
+## § 5a Grenzüberschreitende Nachweisabrufe
+
+(1) Die zuständige Behörde darf bei einer Behörde eines anderen Mitgliedstaats
+der Europäischen Union einen Nachweis nach Artikel 14 Absatz 2 der Verordnung
+(EU) 2018/1724 des Europäischen Parlaments und des Rates vom 2.Oktober 2018 über
+die Einrichtung eines einheitlichen digitalen Zugangstors zu Informationen,
+Verfahren, Hilfs- und Problemlösungsdiensten und zur Änderung der Verordnung
+(EU) Nr. 1024/2012 (ABl. L 295 vom 21.11.2018, S. 1), die durch die Verordnung
+(EU) 2022/868 (ABl. L 152 vom 3.6.2022, S.1) geändert worden ist, automatisiert
+abrufen, wenn dies zur Erfüllung ihrer Aufgaben für eines der Verfahren nach
+Artikel 14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist.
+
+
+(2) Die automatisierte Übermittlung eines Nachweises nach Artikel 14 Absatz 2
+der Verordnung (EU) 2018/1724 an eine Behörde eines anderen Mitgliedstaats der
+Europäischen Union ist zulässig, wenn diese Behörde zuständig ist und die
+Übermittlung zur Erfüllung ihrer Aufgaben für eines der Verfahren nach Artikel
+14 Absatz 1 der Verordnung (EU) 2018/1724 erforderlich ist. (3) Bei der
+Verarbeitung personenbezogener Daten nach den Absätzen 1 und 2 können
+intermediäre Plattformen zum Einsatz kommen.
+
+
+## § 6 Ende-zu-Ende-Digitalisierung; Verordnungsermächtigung
+
+(1) Der Bund hat für seine wesentlichen elektronischen Verwaltungsleistungen
+spätestens zum Ablauf des fünften auf die Verkündung des Gesetzes vom 
+... [einsetzen: Ausfertigungsdatum und Fundstelle dieses Gesetzes] folgenden
+Kalenderjahres eine vollständige elektronische Abwicklung sicherzustellen.
+
+(2) Die Umsetzung und die Auswirkungen des Absatzes 1 werden durch das
+Bundesministerium des Innern und für Heimat nach Ablauf des fünften auf die
+Verkündung des Gesetzes vom 
+... [einsetzen: Ausfertigungsdatum und Fundstelle dieses Gesetzes] folgenden
+Kalenderjahres evaluiert. Der Evaluierungsbericht ist dem Bundestag vorzulegen.
+
+(3) Das Bundesministerium des Innern und für Heimat wird ermächtigt, im
+Einvernehmen mit dem für das jeweilige Bundesgesetz zuständigen
+Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates nach
+Anhörung der kommunalen Spitzenverbände für elektronische Verwaltungsleistungen,
+die der Ausführung von Bundesgesetzen durch die Länder dienen, zu bestimmen,
+dass diese Verwaltungsleistungen vollständig elektronisch abzuwickeln sind.
+
+
+## § 6a Elektronische Aktenführung
 
 Die Behörden des Bundes sollen ihre Akten elektronisch führen. Satz 1
 gilt nicht für solche Behörden, bei denen das Führen elektronischer
@@ -276,104 +401,104 @@ dokumentieren.
 informationstechnischen Systeme.
 
 
-## § 9a Verwaltungsportal und Nutzerkonto des Bundes; Verordnungsermächtigung
+## § 9a Verwaltungsportal des Bundes; Verordnungsermächtigung
 
-(1) Das Verwaltungsportal des Bundes nach § 1 Absatz 1 des
-Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138) und
-das Nutzerkonto des Bundes nach § 3 Absatz 2 des Onlinezugangsgesetzes
-werden durch die dafür zuständigen öffentlichen Stellen zur
-fachunabhängigen und fachübergreifenden Unterstützung der
-elektronischen Verwaltungstätigkeit der Behörden des Bundes zur
-Verfügung gestellt.
+(1) Das Verwaltungsportal des Bundes nach § 1a Absatz 1 des
+Onlinezugangsgesetzes wird durch die dafür zuständige öffentliche Stelle zur
+fachunabhängigen und fachübergreifenden Unterstützung der elektronischen
+Verwaltungstätigkeit der Behörden des Bundes zur Verfügung gestellt.
 
-(2) Das Bundesministerium des Innern, für Bau und Heimat wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die für das Verwaltungsportal und das Nutzerkonto
-des Bundes zuständigen öffentlichen Stellen zu bestimmen. Die
+(2) Das Bundesministerium des Innern und für Heimat wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die für das
+Verwaltungsportal des Bundes zuständige öffentliche Stelle zu bestimmen. Die
 Zuständigkeit der jeweils fachlich zuständigen Behörde für ihre
 Verwaltungsleistungen bleibt davon unberührt.
 
-(3) Das Verwaltungsportal des Bundes stellt Basisdienste bereit, um
+(3) Das Verwaltungsportal des Bundes stellt zur Unterstützung der Abwicklung von
+elektronischen Verwaltungsleistungen Basisfunktionen bereit, um folgende Zwecke
+zu erfüllen: 
 
-1.  eine elektronische Suche nach Verwaltungsleistungen des Bundes, der
-    Länder und der Kommunen im Portalverbund anzubieten,
+1.  Ermöglichung einer elektronischen Suche nach Verwaltungsleistungen des
+    Bundes und der Länder im Portalverbund,
 
+2.  Ermöglichung des elektronischen Identitätsnachweises über ein Nutzerkonto
+    nach § 2 Absatz 5 des Onlinezugangsgesetzes,
 
-2.  den elektronischen Identitätsnachweis über das Nutzerkonto Bund zu
-    ermöglichen,
+3.  Bereitstellung von Online-Formularen für die Unterstützung bei der
+    Abwicklung von elektronischen Verwaltungsleistungen, die in der
+    Zuständigkeit des Bundes liegen und von Behörden des Bundes ausgeführt
+    werden, einschließlich der Erbringung erforderlicher Nachweise,
 
+4.  Bereitstellung eines sicheren Übermittlungswegs, über den Nutzer auch
+    strukturierte Daten und elektronische Informationen, einschließlich
+    erforderlicher Nachweise, zur Abwicklung elektronischer
+    Verwaltungsleistungen, die in der Zuständigkeit des Bundes liegen und von
+    Behörden des Bundes ausgeführt werden, übermitteln können, 
 
-3.  Online-Antragsformulare für die elektronische Beantragung von
-    Verwaltungsleistungen, die in der Zuständigkeit des Bundes liegen und
-    von Behörden des Bundes ausgeführt werden, bereitzustellen und
+5.  Ermöglichung eines sicheren elektronischen Übermittlungswegs für die
+    Behörden des Bundes, die an das Verwaltungsportal des Bundes angeschlossen
+    sind, mit dem sie
+   
+    a)  Online-Formulare empfangen und herunterladen können, 
+    b)  Bescheide, elektronische Dokumente, Informationen und Nachrichten
+        hochladen und elektronisch an das Nutzerkonto des Nutzers übermitteln
+        können und 
+    c)  elektronische Dokumente, Informationen und Nachrichten aus dem
+        Nutzerkonto des Nutzers empfangen können und 
 
-
-4.  für die Behörden des Bundes, die an das Verwaltungsportal des Bundes
-    angeschlossen sind, einen sicheren elektronischen Übermittlungsweg
-    bereitzustellen, mit dem sie
-
-    a)  Online-Antragsformulare empfangen und herunterladen können sowie
-
-
-    b)  Bescheide, elektronische Dokumente und Informationen hochladen und
-        elektronisch an das Nutzerkonto des Antragstellers übermitteln können,
-        wenn die antragstellende Person diesen Kommunikationskanal gewählt
-        hat.
-
-
-
-
-
-
+6.  Ermöglichung der Teilnahme an mindestens einem im elektronischen
+    Geschäftsverkehr üblichen und hinreichenden Zahlungsverfahren für die
+    Behörden des Bundes.
 
 
 ## § 9b Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes
 
-(1) Die erforderlichen Stamm- und Verfahrensdaten, die im
-Verwaltungsportal des Bundes über ein Online-Antragsformular einer
-Behörde erhoben werden, dürfen bereits vor Abschluss der
-Antragstellung gespeichert werden (zwischengespeicherte Antragsdaten),
-wenn die antragstellende Person eingewilligt hat.
+(1) Die für die Zwecke nach § 9a Absatz 3 erforderlichen personenbezogenen Daten
+dürfen im Verwaltungsportal des Bundes verarbeitet werden. Dies gilt auch für
+die Verarbeitung besonderer Kategorien personenbezogener Daten im Sinne des
+Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
+des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung
+der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72; L 127 vom 23.5.2018, S. 2), soweit diese für eine Verwaltungsleistung,
+die über das Verwaltungsportal des Bundes elektronisch abgewickelt wird,
+erforderlich sind. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt
+entsprechend.
 
-(2) Die Verarbeitung der zwischengespeicherten Antragsdaten ist nur
-zulässig, um der antragstellenden Person die Möglichkeit zu bieten,
-den Antrag zu einem späteren Zeitpunkt zu vervollständigen, ihn zu
-korrigieren oder ihn zu löschen.
+(2) Die erforderlichen Stamm- und Verfahrensdaten, die im Verwaltungsportal des
+Bundes über ein Online-Formular einer Behörde erhoben werden, dürfen auf
+Veranlassung des Nutzers darüber hinaus gespeichert werden (zwischengespeicherte
+Verfahrensdaten), um dem Nutzer zu ermöglichen, das Online-Formular zu einem
+späteren Zeitpunkt zu vervollständigen, zu korrigieren oder zu löschen und auch
+nach Übermittlung an die zuständige Behörde einzusehen, zu ergänzen oder die
+zwischengespeicherten Verfahrensdaten erneut zu verwenden. § 22 Absatz 2 des
+Bundesdatenschutzgesetzes gilt im Rahmen der Zwischenspeicherung besonderer
+Kategorien personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der
+Verordnung (EU) Nr. 2016/679 entsprechend.
 
-(3) Durch technische und organisatorische Maßnahmen ist
-sicherzustellen, dass vor Antragstellung auch die jeweils zuständige
-Behörde nicht auf die zwischengespeicherten Antragsdaten zugreifen
-kann. Die zwischengespeicherten Antragsdaten sind nach Ablauf von 30
-Tagen nach der letzten Bearbeitung, die durch die antragstellende
-Person erfolgt ist, zu löschen. Die antragstellende Person ist über
-eine automatische Löschung der zwischengespeicherten Daten zu ihrem
-Antrag zu informieren.
+(3) Durch technische und organisatorische Maßnahmen ist sicherzustellen, dass
+die jeweils zuständige Behörde nicht auf die zwischengespeicherten
+Verfahrensdaten zugreifen kann. Vor Übermittlung des Online-Formulars an die
+zuständige Behörde zwischengespeicherte Verfahrensdaten sind nach Ablauf von 30
+Tagen nach der letzten Bearbeitung durch den Nutzer zu löschen. Nach
+Übermittlung des Online-Formulars an die zuständige Behörde zwischengespeicherte
+Verfahrensdaten sind zu löschen, wenn diese für die Zwecke nach Absatz 2 nicht
+mehr erforderlich sind oder der Nutzer diese erkennbar nicht mehr
+weiterverwenden möchte. Der Nutzer ist vorab über eine automatische Löschung der
+Verfahrensdaten zu informieren.
 
-(4) Die Antragsdaten, die im Verwaltungsportal des Bundes über ein
-Online-Antragsformular erhoben werden, dürfen nach Antragstellung
-gespeichert werden, soweit dies erforderlich ist, um der zuständigen
-Behörde den Antrag über einen sicheren Übermittlungsweg zum Abruf
-bereitzustellen. Sobald die zuständige Behörde den Antrag aus dem
-Verwaltungsportal des Bundes abgerufen hat, sind die Antragsdaten
-unverzüglich aus dem Verwaltungsportal des Bundes zu löschen. Ruft die
-zuständige Behörde den Antrag nicht spätestens innerhalb von drei
-Monaten nach der Antragstellung ab, so ist der Antrag ausschließlich
-zum Zwecke des Abrufs durch die jeweils zuständige Behörde in einer
-gesonderten Datenbank abzulegen und aufzubewahren. Durch technische
-und organisatorische Maßnahmen ist sicherzustellen, dass in der
-gesonderten Datenbank nur die jeweils zuständige Behörde auf die
-Antragsdaten zugreifen kann. Nach Ablauf von neun Monaten ab Ablage in
-der gesonderten Datenbank ist der Antrag aus der gesonderten Datenbank
-zu löschen. Nimmt der Antragsteller den Antrag zurück, sind die
-Antragsdaten unverzüglich aus dem Verwaltungsportal des Bundes zu
-löschen.
+(4) Der Zugriff auf die zwischengespeicherten Verfahrensdaten wird für die
+Nutzer im Verwaltungsportal des Bundes portalübergreifend ermöglicht. Die für
+den Zweck der Ermöglichung des portalübergreifenden Zugriffs erforderlichen
+Stamm- und Verfahrensdaten dürfen im Verwaltungsportal des Bundes verarbeitet
+werden.
 
 
 ## § 9c Datenschutzrechtliche Verantwortlichkeit
 
 (1) Für die Verarbeitung personenbezogener Daten im Verwaltungsportal
-des Bundes nach § 9a Absatz 3 Nummer 3 und 4 und nach § 9b Absatz 1
-und 2 ist die jeweils zuständige Behörde des Bundes
+des Bundes nach § 9a Absatz 3 Nummer 3 bis 6 und nach § 9b Absatz 2
+und 3 ist die jeweils zuständige Behörde des Bundes
 datenschutzrechtlich verantwortlich; die für das Verwaltungsportal des
 Bundes zuständige öffentliche Stelle wird insofern tätig als
 Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU)
@@ -385,11 +510,8 @@ L 127 vom 23.5.2018, S. 2).
 
 (2) Im Übrigen führt die für das Verwaltungsportal des Bundes
 zuständige öffentliche Stelle die Verarbeitung personenbezogener Daten
-in eigener datenschutzrechtlicher Verantwortlichkeit aus.
-
-(3) Die Verarbeitung personenbezogener Daten im Nutzerkonto des Bundes
-führt die nach § 9a Absatz 2 dafür bestimmte zuständige öffentliche
-Stelle in eigener datenschutzrechtlicher Verantwortlichkeit aus.
+in ausschließlich eigener datenschutzrechtlicher Verantwortlichkeit
+aus.
 
 
 ## § 10 Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates
@@ -684,12 +806,12 @@ hat die herausgebende Stelle eine Regelung zu treffen, welche Form als
 die authentische anzusehen ist.
 
 
-## § 16 Barrierefreiheit
+## § 16 Nutzerfreundlichkeit und Barrierefreiheit
 
-Die Behörden des Bundes sollen die barrierefreie Ausgestaltung der
-elektronischen Kommunikation und der Verwendung elektronischer
-Dokumente nach § 4 des Behindertengleichstellungsgesetzes in
-angemessener Form gewährleisten.
+Die Behörden des Bundes gestalten die elektronische Kommunikation und die
+elektronischen Dokumente nutzerfreundlich und barrierefrei. Für die
+barrierefreie Gestaltung gilt die Barrierefreie-Informationstechnik-Verordnung
+entsprechend.
 
 
 ## § 17 Änderung verwaltungsrechtlicher Rechtsverordnungen des Bundes
