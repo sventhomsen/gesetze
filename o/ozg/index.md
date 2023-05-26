@@ -95,7 +95,7 @@ sind.
 
 (7) Ein „Postfach“ ist eine IT-Komponente, über die Nutzer medienbruchfrei, barrierefrei und sicher mit den an den Portalverbund angeschlossenen öffentlichen Stellen vorgangsbezogen kommunizieren können sowie elektronische Dokumente und Informationen senden und empfangen können. Das Postfach ist Bestandteil eines Nutzerkontos.
 
-(8) Ein „Onlinedienst" ist eine IT-Komponente, die ein eigenständiges elektronisches Angebot an die Nutzer darstellt, welches die Abwicklung einer oder mehrerer elektronischer Verwaltungsleistungen von Bund oder Ländern ermöglicht. Der Onlinedienst dient dem elektronischen Ausfüllen der Online-Formulare für Ver- waltungsleistungen von Bund oder Ländern, der Offenlegung dieser Daten an die zuständige Fachbehörde sowie der Übermittlung elektronischer Dokumente und Informationen zu Verwaltungsvorgängen an die Nutzer, gegebenenfalls unter Einbindung von Nutzerkonten einschließlich deren Funktion zur Übermittlung von Daten aus einem Nutzerkonto an eine für die Verwaltungsleistung zuständige Behörde. Der Onlinedienst kann auch verfahrensunabhängig und länderübergreifend, insbesondere in der Verantwortung einer Landesbehörde zur Nutzung durch weitere Länder, bereitgestellt werden.
+(8) Ein „Onlinedienst" ist eine IT-Komponente, die ein eigenständiges elektronisches Angebot an die Nutzer darstellt, welches die Abwicklung einer oder mehrerer elektronischer Verwaltungsleistungen von Bund oder Ländern ermöglicht. Der Onlinedienst dient dem elektronischen Ausfüllen der Online-Formulare für Verwaltungsleistungen von Bund oder Ländern, der Offenlegung dieser Daten an die zuständige Fachbehörde sowie der Übermittlung elektronischer Dokumente und Informationen zu Verwaltungsvorgängen an die Nutzer, gegebenenfalls unter Einbindung von Nutzerkonten einschließlich deren Funktion zur Übermittlung von Daten aus einem Nutzerkonto an eine für die Verwaltungsleistung zuständige Behörde. Der Onlinedienst kann auch verfahrensunabhängig und länderübergreifend, insbesondere in der Verantwortung einer Landesbehörde zur Nutzung durch weitere Länder, bereitgestellt werden.
 
 (9) Behörde im Sinne dieses Gesetzes ist jede Stelle, die Aufgaben der öffentlichen Verwaltung wahrnimmt.
 
@@ -419,15 +419,11 @@ Praxis mit der Bekanntgabe des Verwaltungsaktes über das Postfach.
 
 (4) Das Datenschutzcockpit darf die Identifikationsnummer nach § 139b der Abgabenordnung als Identifikator für die Anfrage zur Erhebung und Anzeige der Daten nach Absatz 2 verarbeiten. Zur Anfrage nach § 6 des Identifikationsnummerngesetzes erhebt das Datenschutzcockpit bei der Registrierung des Nutzers folgende Daten:
 
-    Namen,
-
-    Vornamen,
-
-    Anschrift,
-
-    Geburtsname und
-
-    Tag der Geburt. 
+-  Namen,
+-  Vornamen,
+-  Anschrift,
+-  Geburtsname und
+-  Tag der Geburt. 
 
 Der Nutzer legt fest, in welchem Umfang das Datenschutzcockpit Protokolldaten einschließlich der übermittelten Inhaltsdaten sowie die Bestandsdaten der Register nach Absatz 2 erheben und anzeigen darf. Auf diese Daten hat nur der Nutzer Zugriff. Der Nutzer muss sein Konto im Datenschutzcockpit jederzeit selbst löschen können. Das Konto im Datenschutzcockpit wird automatisiert gelöscht, wenn es drei Jahre nicht verwendet wurde.
 
